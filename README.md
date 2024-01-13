@@ -18,7 +18,7 @@
 
 <hr class="solid">
 
-<h2 align="right">Check out some of the things I've made  👇</h2>
+<h2 align="left">Check out some of the things I've made  👇</h2>
 
 <!---
 VincienzoLee/VincienzoLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
