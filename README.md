@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to collaborate on **open source projects, I'm currently looking for a full time Jr. developer work.**
 
-- 📝 Previously, **I used to study medicine in Australia, where I was able to grow professionally in developing ethics and in character**
+- 📝 Previously, **I used to study medicine in Australia, where I was able to grow professionally in ethics and in character**
 
 - 📫 How to reach me **Linkedin: https://www.linkedin.com/in/vince--lee or Email: vincienzolee@gmail.com**
 
