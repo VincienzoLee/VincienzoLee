@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Health Canvas, a health app which can be used for screening, logging symtpoms, scheduling, and more.**
 
-- 🌱 I’m currently learning **MongoDB, TypeScript, and Python**
+- 🌱 I’m currently learning **MongoDB, TypeScript, and C#**
 
 - 🤝 I’m looking to collaborate on **open source projects, I'm currently looking for a full time Jr. developer work.**
 
